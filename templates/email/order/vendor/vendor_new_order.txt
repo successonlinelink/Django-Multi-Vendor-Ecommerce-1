@@ -1,0 +1,8 @@
+Hello {{ customer.first_name }},
+
+Thank you for your order {{ order.order_id }}.
+
+We are processing your payment via {{ payment_method }}.
+
+Regards,  
+Your Store Team
